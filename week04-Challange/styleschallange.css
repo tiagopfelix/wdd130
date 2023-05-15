@@ -1,13 +1,12 @@
-h1 {
+* {
     text-align: center;
+    background-color: pink;
 }
-p {
-    width: 80%;
-    padding: 10px;
+.para {
+    font-size: 5em;
+    margin: 40px
   }
 nav, footer {
-    background-color: steelblue;
-    color: white;
     padding: 10px;
     text-align: center;
   }
@@ -17,4 +16,18 @@ nav, footer {
     width: 80%;
     margin: 0 auto;
     text-align: center;
+}
+.sec-para {
+    display: block;
+    font-size: 4em;
+    text-align: center;
+}
+img {
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+  }
+p:hover {
+    background-color: white;
+    color: black;
 }
