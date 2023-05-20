@@ -1,6 +1,6 @@
 :root {
 --heading-font: "Rock Salt";
---paragraph-font: Mukta, Helvetica, sans-serif;
+--paragraph-font: Helvetica, Arial, sans-serif;
 }
 
 #content {
@@ -41,7 +41,7 @@ nav, a {
 .home-title {
     color: white;
     text-align: center;
-    font-family: 'Rock Salt', 'Brandley Hand', sans-serif;
+    font-family: 'Rock Salt', 'Helvetica', sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -79,7 +79,7 @@ body {
     font-size: 22px;
     padding: 0;
     margin: 0;
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
 }
 header {
     background-color: #1d3557;
@@ -106,12 +106,12 @@ nav a:hover {
     background-color: #d0cc52;
     color: black;
     line-height: 1.5em;
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     padding: 35px;
 }
 .msg h2 {
     color: black;
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
 }
 .msg p {
     margin: 50px auto;
